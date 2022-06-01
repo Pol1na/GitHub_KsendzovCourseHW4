@@ -1,0 +1,10 @@
+--- Plus ---
+1. Float numbers | Pass
+2. Integer numbers | Pass
+3. Negative integer numbers | Pass
+4. Negative float numbers | Pass
+--- Multiplication ---
+1. Float numbers | Pass
+2. Integer numbers | Pass
+3. Negative integer numbers | Failed
+4. Negative float numbers | Failed
