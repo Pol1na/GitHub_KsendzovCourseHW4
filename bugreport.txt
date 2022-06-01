@@ -1,0 +1,14 @@
+ID: 1
+Name: Can't auth with correct username and password
+Description: When you enter the correct data and click on the "Login" button, an error "Invalid login or password" is generated.
+STR: 1. Go to Login Page
+     2. Enter login "test"
+     3. Enter password "testpassword"
+     4. Click "Login" button
+ER: Authorization was successful. User's personal profile page opened
+AR: Error message 
+Priority: High
+Severity: Blocker
+Environment: Chrome  102.0.5005.63[D[D[D[D[D[D[D[D[D[D[D[D[[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Version: 1.0
+Attachments: no attachments in txt file :D
